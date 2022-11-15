@@ -1,6 +1,0 @@
-devel_space: /root/share/AR_Patrol/devel
-install: false
-install_space: /root/share/AR_Patrol/install
-profile: default
-source_space: /root/share/AR_Patrol/src
-workspace: /root/share/AR_Patrol

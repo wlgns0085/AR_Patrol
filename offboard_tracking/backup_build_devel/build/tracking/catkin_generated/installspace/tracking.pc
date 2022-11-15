@@ -1,0 +1,8 @@
+prefix=/home/nvidia/offboard_tracking_backup/offboard_tracking/install
+
+Name: tracking
+Description: Description of tracking
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs

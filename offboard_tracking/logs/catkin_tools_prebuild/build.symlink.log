@@ -1,0 +1,46 @@
+Symlinking /home/nvidia/offboard_tracking/devel/./setup.zsh
+Symlinking /home/nvidia/offboard_tracking/devel/./cmake.lock
+Symlinking /home/nvidia/offboard_tracking/devel/./local_setup.zsh
+Symlinking /home/nvidia/offboard_tracking/devel/./local_setup.bash
+Symlinking /home/nvidia/offboard_tracking/devel/./_setup_util.py
+Symlinking /home/nvidia/offboard_tracking/devel/./setup.sh
+Symlinking /home/nvidia/offboard_tracking/devel/./local_setup.sh
+Symlinking /home/nvidia/offboard_tracking/devel/./setup.bash
+Symlinking /home/nvidia/offboard_tracking/devel/./env.sh
+Symlinking /home/nvidia/offboard_tracking/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/nvidia/offboard_tracking/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/nvidia/offboard_tracking/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/local_setup.zsh, /root/Object_tracking_v2/devel/./local_setup.zsh)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/local_setup.bash, /root/Object_tracking_v2/devel/./local_setup.bash)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/setup.sh, /root/Object_tracking_v2/devel/./setup.sh)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/env.sh, /root/Object_tracking_v2/devel/./env.sh)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/local_setup.sh, /root/Object_tracking_v2/devel/./local_setup.sh)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/_setup_util.py, /root/Object_tracking_v2/devel/./_setup_util.py)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/setup.bash, /root/Object_tracking_v2/devel/./setup.bash)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/cmake.lock, /root/Object_tracking_v2/devel/./cmake.lock)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/setup.zsh, /root/Object_tracking_v2/devel/./setup.zsh)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc, /root/Object_tracking_v2/devel/lib/pkgconfig/catkin_tools_prebuild.pc)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake, /root/Object_tracking_v2/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake)
+Cleaning: (/root/Object_tracking_v2/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake, /root/Object_tracking_v2/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake)
+Unlinking: /root/Object_tracking_v2/devel/./local_setup.zsh
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/./local_setup.bash
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/./setup.sh
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/./env.sh
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/./local_setup.sh
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/./_setup_util.py
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/./setup.bash
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/./setup.zsh
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Already unlinked: {}
+Unlinking: /root/Object_tracking_v2/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Already unlinked: {}

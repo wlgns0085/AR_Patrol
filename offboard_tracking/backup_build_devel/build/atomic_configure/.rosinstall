@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/offboard_tracking_backup/offboard_tracking/devel/setup.sh
